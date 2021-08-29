@@ -8,3 +8,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Holyblade&show_icons=true&theme=radical&repo=Conversor_de_Logs_da_Eduzz)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Holyblade&show_icons=true&theme=radical&repo=Conversor_de_Logs_do_Nutror)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Holyblade&show_icons=true&theme=radical&repo=FacebookConversionAPI-Eduzz)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Holyblade&show_icons=true&theme=radical&repo=Conversor_de_Logs_do_MailChimp)](https://github.com/anuraghazra/github-readme-stats)
