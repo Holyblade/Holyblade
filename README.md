@@ -1,6 +1,6 @@
 ### Hi there, I'm Jorgi Bolonhezi 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Holyblade&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Holyblade&show_icons=true&theme=radical&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Holyblade&show_icons=true&theme=radical&layout=default)](https://github.com/Holyblade?tab=overview)
 
