@@ -1,6 +1,7 @@
 ### Hi there, I'm Jorgi Bolonhezi 👋
-
-![Anurag's GitHub stats](https://vercel-instance-holyblade.vercel.app/api?username=holyblade&show_icons=true&theme=tokyonight&count_private=true&hide=stars,issues)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://vercel-instance-holyblade.vercel.app/api?username=holyblade&show_icons=true&theme=tokyonight&count_private=true&hide=stars,issues" />
+</a>
 
  ![Top Langs](https://vercel-instance-holyblade.vercel.app/api/top-langs/?username=holyblade&theme=tokyonight&count_private=true&langs_count=8&layout=compact)
 
