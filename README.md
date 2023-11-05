@@ -1,6 +1,6 @@
 ## Jorgi Bolonhezi
 
-As a Full Stack Developer, I have experience in Flutter, Node.js, React.js, and React Native. I hold a degree in Information Systems from UNEMAT and a Master's degree in Computer Science from UFPR. Constantly seeking out new technologies and staying up-to-date, I work at JMP where I contribute to the development of innovative and efficient solutions. Passionate about technology, I thrive on challenging and stimulating projects.
+As a Full Stack Developer at J.C. MARTINS & CIA LTDA, I have experience in Flutter, Node.js, React.js, and React Native. I hold a degree in Information Systems from UNEMAT and a Master's degree in Computer Science from UFPR. Constantly seeking out new technologies and staying up-to-date, I work at JMP where I contribute to the development of innovative and efficient solutions. Passionate about technology, I thrive on challenging and stimulating projects.
 
 <table>
   <tr>
