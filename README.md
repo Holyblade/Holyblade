@@ -1,6 +1,60 @@
-<table>
-  <tr>
-    <td><img src="https://vercel-instance-holyblade.vercel.app/api?username=holyblade&show_icons=true&theme=transparent&count_private=true&hide_border=true"></td>
-    <td><img src="https://vercel-instance-holyblade.vercel.app/api/top-langs/?username=holyblade&exclude_repo=vercel-instance,drivedevelopment,emaildevelopment,bolonheziwebsite,shaiyadevelopment,MestradoUFPR-Jorgi&theme=transparent&count_private=true&langs_count=8&layout=compact&hide_border=true"></td>
-  </tr>
-</table>
+# Jorgi Bolonhezi
+
+Full-stack developer building software across web, mobile, and backend. I enjoy turning
+complex problems into practical solutions, learning new technologies, and working on
+projects that challenge me to improve.
+
+## About me
+
+- 🎓 Information Systems at UNEMAT
+- 🎓 Master's degree in Computer Science at UFPR
+- 💻 Focused on building useful, efficient software and exploring better ways to solve problems
+- 🏦 Experience integrating banking/payment APIs (PIX, boletos, mTLS) with Itaú, Sicredi, and Sicoob
+- 📌 Sharing experiments and projects here on GitHub
+
+## Tech stack
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+**Databases & Messaging**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Testing & Infra**
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+## Architecture & patterns
+
+Domain-Driven Design · CQRS · Event Sourcing · Distributed Systems · Outbox & Saga patterns
+
+## Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Holyblade)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgi@machadao.com)
+
+---
+
+<sub>Always learning. Always building.</sub>
