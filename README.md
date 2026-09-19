@@ -9,10 +9,17 @@ projects that challenge me to improve.
 - 🎓 Information Systems at UNEMAT
 - 🎓 Master's degree in Computer Science at UFPR
 - 💻 Focused on building useful, efficient software and exploring better ways to solve problems
-- 🏦 Experience integrating banking/payment APIs (PIX, boletos, mTLS) with Itaú, Sicredi, and Sicoob
+- 🏦 Experience integrating banking/payment APIs (PIX, payment slips, mTLS) with Itaú, Sicredi, Sicoob, and Bradesco
 - 📌 Sharing experiments and projects here on GitHub
 
 ## Tech stack
+
+**AI & Agent Engineering**
+
+![Anthropic Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 **Backend & APIs**
 
@@ -22,6 +29,8 @@ projects that challenge me to improve.
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 **Databases & Messaging**
 
@@ -33,6 +42,7 @@ projects that challenge me to improve.
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge&logo=typeorm&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Frontend & Mobile**
 
@@ -55,10 +65,14 @@ projects that challenge me to improve.
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ## Architecture & patterns
 
-Domain-Driven Design · CQRS · Event Sourcing · Outbox & Saga · Distributed Systems
+Domain-Driven Design · CQRS · Event Sourcing · Outbox & Saga · Distributed Systems · LLM Agents & Tool Calling · Spec-Driven Development
 
 ## Contact
 
