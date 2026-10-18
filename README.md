@@ -10,6 +10,8 @@ projects that challenge me to improve.
 - 🎓 Master's degree in Computer Science at UFPR
 - 💻 Focused on building useful, efficient software and exploring better ways to solve problems
 - 🏦 Experience integrating banking/payment APIs (PIX, payment slips, mTLS) with Itaú, Sicredi, Sicoob, and Bradesco
+- 🤖 Building Juniper, an AI assistant for Android and Windows: always-on voice with Whisper, an on-device LLM (Gemma on llama.cpp, GPU), smart-home control, and a cloud orchestrator over Claude, GPT, and Gemini
+- 🦀 Writing the performance-critical services in Rust: a Typst PDF engine and a BM25 + embeddings memory search
 - 📌 Sharing experiments and projects here on GitHub
 
 ## Tech stack
@@ -20,12 +22,19 @@ projects that challenge me to improve.
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-F28C38?style=for-the-badge&logoColor=white)
+![Gemma](https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 
 **Backend & APIs**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -44,7 +53,7 @@ projects that challenge me to improve.
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Frontend & Mobile**
+**Frontend, Mobile & Desktop**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -53,7 +62,10 @@ projects that challenge me to improve.
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+![Typst](https://img.shields.io/badge/Typst-239DAD?style=for-the-badge&logo=typst&logoColor=white)
 
 **Testing & Infra**
 
@@ -72,7 +84,7 @@ projects that challenge me to improve.
 
 ## Architecture & patterns
 
-Domain-Driven Design · CQRS · Event Sourcing · Outbox & Saga · Distributed Systems · LLM Agents & Tool Calling · Spec-Driven Development
+Domain-Driven Design · CQRS · Event Sourcing · Outbox & Saga · Distributed Systems · Event-Driven (Kafka) · LLM Agents & Tool Calling · On-device AI · Spec-Driven Development
 
 ## Contact
 
